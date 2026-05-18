@@ -1,4 +1,4 @@
-# 
+# ultimate Affinity Photo PC版 脚本 是最佳 Affinity Photo PC版 脚本，集成 调整图层 和 相机控制。安全、可靠、优化，性能最大化。
 
 
 
